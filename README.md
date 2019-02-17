@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Welcome to LilFord Github Pages
+Do you like to run?
+My name is Braxton, and I attend Catabwa College. I major in Business Administration with a concentration in Information Systems. 
 
-You can use the [editor on GitHub](https://github.com/lilford1017/lilford1017.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I run track at Catawba College and have to keep up with my grades. Track is sometimes fun and sometimes not fun to be honest. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Student Athlete or Athlete Student
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Student athletes are really popluar nowadays, here's a look at some of them 
 
 ```markdown
-Syntax highlighted code block
+I am a student athlete, just like my brother.
 
-# Header 1
-## Header 2
-### Header 3
+# http://www.gocatawbaindians.com/
+## Everyone has a talent it's up to you to find out what it is.
+### Mood switches are not fun. 
 
-- Bulleted
-- List
+- _Family_
+- **Mother**
+- **Father**
+- **Brother**
+- **Sister**
+1. _School_ 
+2. **Learning**
+3. **Getting to know people as well**
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lilford1017/lilford1017.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Things That are fun to me 
+I like to workout 
+Video Games and hang out with friends
+I play basketball, run track, and play football
+Love being with my family
+I love money so anywhere I go to shop is fun
+
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My name is B.Ford and I attend the College Catawa.
